@@ -1,5 +1,5 @@
-# https-github.com-yourusername-riverbend-yoga
-Working Project/Preview Link: https://yourusername.github.io/riverbend-yoga
+# https://punkin3231.github.io/riverbend-yoga
+Working Project/Preview Link: https://punkin3231.github.io/riverbend-yoga
 index.html
 services.html
 about.html
